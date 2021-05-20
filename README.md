@@ -20,7 +20,7 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 
 </a>   
 
-
+### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
 <!-- links to social media icons -->
 
