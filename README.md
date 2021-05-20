@@ -20,9 +20,9 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 
 </a>   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscofromKPI&show_icons=true&theme=dracula)](https://github.com/DiscofromKPI/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscofromKPI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/DiscofromKPI/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiscofromKPI)](https://github.com/DiscofromKPI/github-readme-stats)
+
 
 <!-- links to social media icons -->
 
