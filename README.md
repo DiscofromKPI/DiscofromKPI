@@ -19,7 +19,8 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 
 
 </a>   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscofromKPI&layout=compact)](https://github.com/DiscofromKPI/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscofromKPI)](https://github.com/DiscofromKPI/github-readme-stats)
 
 
 
