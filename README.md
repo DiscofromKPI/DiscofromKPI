@@ -21,7 +21,17 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 </a>   
 
 ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+<!--
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
 
+<a href='https://twitter.com/natterstefan'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/natterstefan'>
+    Stefan Natter 🇦🇹👋🏻
+</a>
+-->
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
