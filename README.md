@@ -20,8 +20,7 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 
 </a>   
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiscofromKPI)](https://github.com/DiscofromKPI/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiscofromKPI&hide=contribs,prs)
 
 
 <!-- links to social media icons -->
