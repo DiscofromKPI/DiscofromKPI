@@ -14,13 +14,13 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 
 
 <a href="https://github.com/DiscofromKPI/DiscofromKPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiscofromKPI&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiscofromKPI&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bohdan's GitHub Stats" />
 </a>
 
 
 </a>   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscofromKPI)](https://github.com/DiscofromKPI/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscofromKPI)](https://github.com/DiscofromKPI/github-readme-stats&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 
 <!-- links to social media icons -->
