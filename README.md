@@ -1,12 +1,13 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, living in Kyiv and currently not working. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-
+[![](https://vistr.dev/badge?repo=discofromkpi.discofromkpi&corners=square)](https://github.com/DiscofromKPI/vistr.dev)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Rider-informational?style=flat&logo=rider&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%23logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sugar-informational?style=flat&logo=Sugar&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
 <!-- ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) -->
 
 ## &#x1f4c8; GitHub Stats
@@ -15,7 +16,7 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 <a href="https://github.com/DiscofromKPI/DiscofromKPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiscofromKPI&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bohdan's GitHub Stats" />
 </a>
-[![](https://vistr.dev/badge?repo=discofromkpi.discofromkpi&corners=square)](https://github.com/DiscofromKPI/vistr.dev)
+
 
 </a>   
 
