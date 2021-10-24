@@ -15,7 +15,7 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 <a href="https://github.com/DiscofromKPI/DiscofromKPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiscofromKPI&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bohdan's GitHub Stats" />
 </a>
-
+[![](https://vistr.dev/badge?repo=discofromkpi.discofromkpi&corners=square)](https://github.com/DiscofromKPI/vistr.dev)
 
 </a>   
 
@@ -44,7 +44,7 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 [2]: https://github.com/DiscofromKPI
 [3]: https://www.linkedin.com/in/bohdan-karashchuk-7222b0205/
 
-[![](https://vistr.dev/badge?repo=discofromkpi.discofromkpi&corners=square)](https://github.com/DiscofromKPI/vistr.dev)
+
 <!--
 
 
