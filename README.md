@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, living in Kyiv and currently not working. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
 [![](https://vistr.dev/badge?repo=discofromkpi.discofromkpi&corners=square)](https://github.com/DiscofromKPI/vistr.dev)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
