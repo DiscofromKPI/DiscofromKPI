@@ -44,7 +44,7 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 [2]: https://github.com/DiscofromKPI
 [3]: https://www.linkedin.com/in/bohdan-karashchuk-7222b0205/
 
-[![](https://vistr.dev/badge?repo=elfocrash.elfocrash&corners=square)](https://github.com/DiscofromKPI/vistr.dev)
+[![](https://vistr.dev/badge?repo=discofromkpi.discofromkpi&corners=square)](https://github.com/DiscofromKPI/vistr.dev)
 <!--
 
 
