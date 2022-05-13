@@ -10,6 +10,9 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 ![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MyLove-.Net-informational?style=flat&logo=.Net&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-K8S-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IaaC-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
