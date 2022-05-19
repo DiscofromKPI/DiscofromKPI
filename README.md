@@ -17,14 +17,14 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 ## &#x1f4c8; GitHub Stats
 
 
-<a href="https://github.com/DiscofromKPI/DiscofromKPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiscofromKPI&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bohdan's GitHub Stats" />
+<a href="https://github.com/eternityduck/eternityduck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eternityduck&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bohdan's GitHub Stats" />
 </a>
 
 
 </a>   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscofromKPI&hide=html,css&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/DiscofromKPI/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eternityduck&hide=html,css&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/eternityduck/github-readme-stats)
 
 
 
@@ -46,7 +46,7 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/ofcDISCO
-[2]: https://github.com/DiscofromKPI
+[2]: https://github.com/eternityduck
 [3]: https://www.linkedin.com/in/bohdan-karashchuk-7222b0205/
 
 
