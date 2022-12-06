@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, living in Kyiv and currently working as DevOps engineer . You can find me on [![LinkedIn][3.2]][3].
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/OS-macOs-informational?style=flat&logo=macOs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
@@ -11,7 +11,7 @@ My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, liv
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GoogleCloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MyLove-.Net-informational?style=flat&logo=.Net&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/MyLove-.Net-informational?style=flat&logo=.Net&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-K8S-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IaaC-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=2bbc8a)
