@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, living in Kyiv and currently working as DevOps engineer . You can find me on [![LinkedIn][3.2]][3].
+<!-- My name is Bohdan Karashchuk and I'm a software developer. I'm from Ukraine, living in Kyiv and currently working as. You can find me on [![LinkedIn][3.2]][3]. -->
 ## 🔧 Technologies & Tools
 <!-- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/OS-macOs-informational?style=flat&logo=macOs&logoColor=white&color=2bbc8a)
