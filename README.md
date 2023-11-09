@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eternityduck&&layout=compact&hide=html,css,&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/eternityduck/github-readme-stats)
 
 
-
+[![An image of @eternityduck's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eternityduck)](https://holopin.io/@eternityduck)
 
 <!-- links to social media icons -->
 
